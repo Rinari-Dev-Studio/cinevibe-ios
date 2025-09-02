@@ -12,7 +12,7 @@ struct CineVibe03App: App {
     
     var body: some Scene {
         WindowGroup {
-            Login()
+            Intro()
                 .environmentObject(appViewModel)
         }
     }
