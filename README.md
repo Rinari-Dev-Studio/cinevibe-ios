@@ -13,10 +13,11 @@ Was Cine Vibe besonders macht, ist seine klare Ausrichtung: Keine KI, keine mass
 
 
 <p>
-  <img width="200" src="Screenshots/screenshot_intro.png">
-  <img width="200" src="Screenshots/screenshot_rating.png">
-  <img width="200" src="Screenshots/screenshot_watchlist.png">
+  <img width="200" src="https://github.com/user-attachments/assets/18b317ce-c3a5-4367-ac79-cb0c91a04bba">
+  <img width="200" src="https://github.com/user-attachments/assets/f57bee6f-5a89-4944-b7d9-bd573d1a4374">
+  <img width="200" src="https://github.com/user-attachments/assets/48d0263a-78e5-4e56-92c1-fe994caf2ce7">
 </p>
+
 
 
 
