@@ -1,7 +1,8 @@
 > ⚠️ Hinweis: Dieses Projekt dient ausschließlich Demonstrations- und Lernzwecken und ist nicht für die kommerzielle Nutzung bestimmt.
 
 
-# 🎬 Cine Vibe  
+# 🎬 Cine Vibe ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 _Ein minimalistisches iOS-Projekt zur Filmempfehlung auf Basis persönlicher Präferenzen._
 
 
